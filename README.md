@@ -1,16 +1,5 @@
-# quiz_app_test
+# 플러터와 장고로 풀스택 퀴즈앱을 만드는 강의
+https://www.inflearn.com/course/플러터-장고-퀴즈앱-서버-풀스택
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- DJANGO: DJANGO 백엔드
+- FLUTTER: FLUTTER 앱 UI
